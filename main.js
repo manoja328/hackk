@@ -1,1 +1,2 @@
-alert(3)
+
+<script>alert(3)</script>
